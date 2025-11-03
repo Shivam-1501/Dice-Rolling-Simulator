@@ -22,3 +22,10 @@ Conditional statements – to control program flow.
 Random number generation – using stdlib.h and time.h.
 
 Basic I/O operations – using printf() and scanf().
+👨‍💻 Author
+
+Shivam 25BCA20007
+
+🧾 License
+
+This project is licensed under the MIT License
